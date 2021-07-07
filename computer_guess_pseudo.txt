@@ -1,0 +1,13 @@
+
+
+user inputs a number between 1 - 100
+computer guesses
+
+computer guesses the number that's halfway between a range (initally 1-100) 
+
+loop
+while guess != number and tries < 10
+if number equal: end the game
+elif the number is lower reduce the range above the guess
+else the number is higher reduce the range that's below the guess
+computer guesses the number that's halfway between a range (initally 1-100) 

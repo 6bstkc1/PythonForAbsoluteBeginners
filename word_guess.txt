@@ -1,0 +1,15 @@
+tuple of words
+pick a  random word
+print length of word
+loop over 5 times
+	input user for letter in word
+	if letter is in word
+		print yes
+	else
+		print no
+
+input player word guess
+if guess is word
+	print you win
+else
+	print loser
